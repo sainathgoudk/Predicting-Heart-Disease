@@ -4,7 +4,7 @@ Machine Learning with a Heart
 ### About Heart Disease
 Preventing heart disease is important. Good data-driven systems for predicting heart disease can improve the entire research and prevention process, making sure that more people can live healthy lives.
 
-In the United States, the Centers for Disease Control and Prevention is a good resource for information about heart disease. According to their website:
+In the United States, the Centers for Disease Control and Prevention is a good resource for information about heart disease. According to their website: (http://effectif.com/nesta)
 
 * About 610,000 people die of heart disease in the United States every year–that’s 1 in every 4 deaths.
 * Heart disease is the leading cause of death for both men and women. More than half of the deaths due to heart disease in 2009 were in men.
