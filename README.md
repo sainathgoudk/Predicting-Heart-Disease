@@ -1,5 +1,8 @@
 # Predicting-Heart-Disease
-Machine Learning with a Heart
+Machine Learning with a Heart. The goal is to predict the binary class heart_disease_present, which represents whether or not a patient has heart disease:
+
+* 0 represents no heart disease present
+* 1 represents heart disease present
 
 ## About Heart Disease
 Preventing heart disease is important. Good data-driven systems for predicting heart disease can improve the entire research and prevention process, making sure that more people can live healthy lives.
