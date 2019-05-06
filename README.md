@@ -16,3 +16,6 @@ In the United States, the Centers for Disease Control and Prevention is a good r
 * Heart disease is the leading cause of death for people of most ethnicities in the United States, including African Americans, Hispanics, and whites. For American Indians or Alaska Natives and Asians or Pacific Islanders, heart disease is second only to cancer.
 
 For more information, you can look at the website of the Centers for Disease Control and Prevention: preventing heart disease (https://www.cdc.gov/heartdisease/prevention.htm)
+
+## Source Data
+Data is provided courtesy of the Cleveland Heart Disease Database via the UCI Machine Learning repository http://archive.ics.uci.edu/ml/datasets/statlog+(heart). Aha, D., and Dennis Kibler. "Instance-based prediction of heart-disease presence with the Cleveland database." University of California 3.1 (1988): 3-2.
